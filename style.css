@@ -1,0 +1,38 @@
+.conteiner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center ;
+    gap: 10px;
+} 
+
+body{
+    background-color: blanchedalmond;
+}
+
+.azul{
+    background-color: rgb(105, 203, 255);
+    padding: 10px;
+    margin: 10px;
+    width: 120xp;
+    height: 200px;
+}
+
+.amarelo{
+    background-color: rgb(255, 220, 105);
+    padding: 10px;
+    margin: 10px;
+}
+
+.extender{
+    background-color: rgb(191, 151, 19) ;
+    padding-right: 43%;
+}
+.flex{
+    display: flex;
+
+}
+
+.prabaixo{
+    padding-bottom: 42%;
+}
+
