@@ -13,7 +13,7 @@ body{
     background-color: rgb(105, 203, 255);
     padding: 10px;
     margin: 10px;
-    width: 120xp;
+    width: 120px;
     height: 200px;
 }
 
@@ -36,3 +36,10 @@ body{
     padding-bottom: 42%;
 }
 
+.prolado{
+    margin-left: 52%;
+}
+
+.extendermais{
+    padding-right: 160%;
+}
